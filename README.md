@@ -1,3 +1,3 @@
-<h3>Data Analysis Project</h3>
-<h6>Libraries Used: pandas, Numpy, Matplotlib, Seaborn</h6>
+<h1>Data Analysis Project</h1>
+<h3>Libraries Used: pandas, Numpy, Matplotlib, Seaborn</h3>
 <p>Created and Executed in Jupyter Notebook</p>
